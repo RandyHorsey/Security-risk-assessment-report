@@ -11,4 +11,4 @@ In this example I am a security analyst working for a social media organization 
 
  <h4>
 Security risk assessment report: </h4>
-<img src="https://imgur.com/VOxERbC.png" height="70%" width="70%" />
+<img src="https://imgur.com/devC9eg.png" height="70%" width="70%" />
